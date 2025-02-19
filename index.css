@@ -10,10 +10,10 @@ html, body {
 .container {
   max-width: 100%;
   min-height: 100vh;
-  padding-top: 1.5rem;
-  padding-left: 10%;
-  padding-right: 10%;
-  padding-bottom: 10rem;
+  padding-top: 0.5rem;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 5rem;
 }
 
 .bold {
